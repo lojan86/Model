@@ -1,4 +1,4 @@
-# animalmodel02.ipynb - This file conatain our base model
+# animalmodel02.ipynb - This file contain our base model
 YOLOv8 Animal Detection Model
 
 This repository contains a custom-trained YOLOv8 model for animal detection, developed as part of the Intelligent Animal Trap Utilizing Detection Technology project.
